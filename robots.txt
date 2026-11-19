@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andrew-burnett-local-business.onrender.com/sitemap.xml
